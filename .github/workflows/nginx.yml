@@ -1,4 +1,4 @@
-name: nginx instrumentation CI
+name: Forked nginx instrumentation CI
 
 on:
   push:
